@@ -1,3 +1,11 @@
 .DS_Store
 .vscode/
 plants.txt
+01_materials/slides/01_data_types.ipynb
+01_materials/slides/01_data_types.ipynb
+01_materials/slides/02_comments_and_errors.ipynb
+01_materials/slides/03_functions.ipynb
+01_materials/slides/04_strings.ipynb
+01_materials/slides/05_converting_types.ipynb
+01_materials/slides/06_inputs.ipynb
+01_materials/slides/07_control_flow.ipynb
